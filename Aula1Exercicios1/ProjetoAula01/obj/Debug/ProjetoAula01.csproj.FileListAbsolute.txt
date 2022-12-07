@@ -1,0 +1,11 @@
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\bin\Debug\ProjetoAula01.exe.config
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\bin\Debug\ProjetoAula01.exe
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\bin\Debug\ProjetoAula01.pdb
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.Form1.resources
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.Properties.Resources.resources
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.csproj.GenerateResource.cache
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.exe
+C:\Users\gabriel.oliveira32\Documents\ProjetosGabriel\ProjetoAula01\ProjetoAula01\obj\Debug\ProjetoAula01.pdb
